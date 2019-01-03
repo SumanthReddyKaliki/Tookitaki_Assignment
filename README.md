@@ -133,6 +133,6 @@ Open `Tookitaki_Model_Training-Final.ipynb` and then run the notebook. I used Ba
 
 (0.0012, 'feature_48')
 
-## Feature Importance
+## Feature Importance Rank Ordering
 
-![Feature Importance](../master/image.png)
+![Feature Importance Rank Ordering](../master/image.png)
